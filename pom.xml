@@ -16,7 +16,9 @@
     </properties>
 
     <modules>
-        <module>mycode</module>
+        <module>myCode</module>
+        <module>mySpringMVC</module>
+        <module>mySpringBoot</module>
     </modules>
 
 
